@@ -78,7 +78,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [World ID (Worldcoin)](https://worldcoin.org/world-id) - Proof‑of‑personhood for human–agent gating; real‑world expansion covered broadly in 2025. ([The Washington Post][39])
 * [Human Passport (Gitcoin Passport)](https://passport.human.tech/) - Attestation‑based identity with model‑assisted Sybil detection; widely used across web3. ([Human Passport][40])
 
-* **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** — Solana-native AI agent trust scoring MCP server with x402 micropayment receipts. Issues cryptographically signed V5 trust receipts for agent interactions; free preflight + paid receipts. Production service at https://intel.twzrd.xyz
+* **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Solana-native AI agent trust scoring MCP server with x402 micropayment receipts. Issues cryptographically signed V5 trust receipts for agent interactions; free preflight + paid receipts. Production service at https://intel.twzrd.xyz
 
 ## Analytics & indexing for agent economies
 
